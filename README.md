@@ -1,7 +1,7 @@
 # Spotify UI 3 Page
 
 <p float="left">
-  <img src="/img1.png" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="https://github.com/WageSapta/spotify-ui/blob/master/flutter_01.png" width="100" />
+  <img src="https://github.com/WageSapta/spotify-ui/blob/master/flutter_02.png" width="100" /> 
+  <img src="https://github.com/WageSapta/spotify-ui/blob/master/flutter_03.png" width="100" />
 </p>
