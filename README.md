@@ -1,5 +1,16 @@
-# Spotify UI 3 Page
+# slicing_spotify
 
-![flutter_02](https://github.com/WageSapta/spotify-ui/assets/110539874/fcd7dded-2825-42e3-b672-ca498549a4f7)
-![flutter_03](https://github.com/WageSapta/spotify-ui/assets/110539874/907c7b00-aec4-4391-942f-b45669088f11)
-![flutter_01](https://github.com/WageSapta/spotify-ui/assets/110539874/e3b9faf1-f651-4a4d-8954-d155f27090fd)
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
