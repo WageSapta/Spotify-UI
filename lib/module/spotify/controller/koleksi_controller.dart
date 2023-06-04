@@ -38,23 +38,48 @@ class KoleksiController extends State<SpotifyKoleksi>
       "title": "Lagu yang Disukai",
       "subtitle": "Playlist • 796 lagu",
       "isPinned": true,
+      "isAddPodcast": false,
+      "isAddArtist": false,
     },
     {
       "title": "Sering Diputar",
       "subtitle": "Playlist • Spotify",
       "isPinned": false,
+      "isAddPodcast": false,
+      "isAddArtist": false,
     },
     {
       "title": "wave to earth",
       "subtitle": "Artist",
       "isPinned": false,
+      "isAddPodcast": false,
+      "isAddArtist": false,
     },
     {
       "title": "The 1975",
       "subtitle": "Artist",
       "isPinned": false,
+      "isAddPodcast": false,
+      "isAddArtist": false,
     },
-  ];
+  ].followedBy(
+    [
+      {
+        "title": "Tambahkan artis",
+        "subtitle": "",
+        "isPinned": false,
+        "isAddArtist": true, 
+        "isAddPodcast": false,
+      },
+      {
+        "title": "Tambahkan podcast & acara",
+        "subtitle": "",
+        "isPinned": false,
+        "isAddPodcast": true,
+        "isAddArtist": false,
+      },
+    ],
+  ).toList();
 
   @override
   Widget build(BuildContext context) => widget.build(context, this);
