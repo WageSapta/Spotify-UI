@@ -109,7 +109,7 @@ class SpotifyKoleksi extends StatefulWidget {
                     child: Row(
                       children: [
                         Icon(
-                          Icons.sort,
+                          Icons.swap_vert,
                           color: Colors.white,
                           size: 20,
                         ),
